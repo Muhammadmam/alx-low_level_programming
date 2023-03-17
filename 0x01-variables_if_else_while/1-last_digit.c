@@ -4,14 +4,15 @@
 
 /**
  * main - prints a text according number
- * Return: Always (Success)
+ * Return: Always 0
  *
  */
 
 int main(void)
 
 {
-	int n,int ld;
+	int n;
+	int ld;
 
 	srand(time(0));
 	n = rand() - RAND_MAX / 2;
