@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * main - print _ putchar
+ * main - print _putchar
  * is written by me
  * Return: 0
  */
