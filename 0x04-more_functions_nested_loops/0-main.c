@@ -8,11 +8,11 @@
  */
 int main(void)
 {
-	ichar c;
+	char c;
 	
-	c = 'A';
+	c = 65;
 	printf("%c: %d\n", c, _isupper(c));
-	c = 'a';
+	c = 90;
 	printf("%c: %d\n", c, _isupper(c));
 	return (0);
 }
